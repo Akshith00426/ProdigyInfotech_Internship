@@ -1,0 +1,100 @@
+[
+  {
+    "dialog_id": "0x1a2b3c4d",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "Hello, how are you?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "I'm great, thanks! How about you?"
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "I'm doing well. What are you up to?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Just reading a book. Do you like to read?"
+      }
+    ],
+    "eval_score": 4,
+    "profile_match": 1
+  },
+  {
+    "dialog_id": "0x5e6f7g8h",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant2",
+        "text": "What’s your favorite movie?"
+      },
+      {
+        "id": 1,
+        "sender": "participant1",
+        "text": "I love 'Inception'. It's a masterpiece!"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "That's a great choice. I enjoy Christopher Nolan's movies too."
+      }
+    ],
+    "eval_score": 5,
+    "profile_match": 1
+  },
+  {
+    "dialog_id": "0x9h8g7f6e",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "Do you like traveling?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Absolutely! I love exploring new places. What about you?"
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "I do! My dream is to visit Japan one day."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Japan is amazing! The culture and food are incredible."
+      }
+    ],
+    "eval_score": 4,
+    "profile_match": 1
+  },
+  {
+    "dialog_id": "0xa1b2c3d4",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant2",
+        "text": "What kind of music do you enjoy?"
+      },
+      {
+        "id": 1,
+        "sender": "participant1",
+        "text": "I’m into rock and jazz. What about you?"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "I love classical music. It's so calming."
+      }
+    ],
+    "eval_score": 3,
+    "profile_match": 1
+  }
+]
